@@ -1,3 +1,17 @@
+
+#react-leaflet-radial-area-polygon
+
+Approximate circles as polygons and combine them into one multi-polygon merging them where the overlap.
+
+My use case was showing a radius around each metro stop in Washington DC. Showing a circle around each point caused a lot of the circles to overlap and looked horrible.
+
+![Example image](example.png)
+
+See `/src/demo/App.js` for example usage
+
+
+---
+
 This project was bootstrapped with [Create React Library](https://github.com/dimimikadze/create-react-library).
 
 All library files are located inside **src/lib** folder.
