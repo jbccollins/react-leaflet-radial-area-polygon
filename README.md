@@ -1,5 +1,5 @@
 
-#react-leaflet-radial-area-polygon
+# react-leaflet-radial-area-polygon
 
 Approximate circles as polygons and combine them into one multi-polygon merging them where the overlap.
 
